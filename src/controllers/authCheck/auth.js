@@ -1,7 +1,7 @@
 
 
 const jwt = require("jsonwebtoken")
-
+//changes have been made 
 adminAuthCheck = (req, res, next) => {
 
     try {
