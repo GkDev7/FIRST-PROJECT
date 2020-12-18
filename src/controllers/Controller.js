@@ -7,7 +7,7 @@ const bcrypt = require("bcryptjs")
 const jwt=require("jsonwebtoken")
 const dbUrl="mongodb+srv://majorProject:BbENiSmqHd6FTXE0@cluster0-ccc3k.mongodb.net/"
 
-//how to push code from vs to git after changes
+//how to push code from vs to git after changes that was made on the code which pulled from masterbranch
 const passwordhash=require("password-hash")
 
 
