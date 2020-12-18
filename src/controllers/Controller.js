@@ -5,9 +5,9 @@ const mongodb = require("mongodb")
 
 const bcrypt = require("bcryptjs")
 const jwt=require("jsonwebtoken")
-const dbUrl="mongodb+srv://majorProject:c8uxnoeLuanXfE5z@cluster0-ccc3k.mongodb.net/"
+const dbUrl="mongodb+srv://majorProject:BbENiSmqHd6FTXE0@cluster0-ccc3k.mongodb.net/"
 
-
+//how to push code from vs to git after changes
 const passwordhash=require("password-hash")
 
 
